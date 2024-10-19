@@ -1,0 +1,39 @@
+ID,Nombre
+na1,"""Trevor se adentra en el castillo del Conde Dracula"
+na1a,decidido a acabar con su tiranía.
+na1b,Los pasillos laverinticos estan llenos de alimañas.
+na1c,"Hay que acabar con ellas..."""
+op1,Luego de vagar por lo que parecen horas Trevor
+op1a,se hace paso sin levantar sospecha en el castillo.
+op1b,La duda se cierne sobre él... 
+op1c,¿Debería volver a su hogar?
+na2,"""El cazavampiros avanza por el castillo siguiendo"
+na2a,su instinto hasta llegar a una difurcasión confusa.
+na2b,Dos caminos de abren ante él; uno en apariencia 
+na2c,tranquilo y otro plagado de monstruos... 
+na2d,"¿Por cual avanzará?"""
+na3,"""El pasillo vuelve a dividirse mas adelante;"
+na3a,"los caminos son confusos ¿por donde seguir?"""
+op2,"""Trevor se encuentra con otro cazador;"
+op2a,"el cual parece casi tan perdido como él"""
+caz,"Cazador: ""Creo que los pasillos cambian a medida que avanzamos."
+caz1,"Debe haber algun tipo de truco..."""
+fb1,"""Trevor llega a los aposentos de Dracula "
+fb1a,decidido a acabar con su tirania.
+fb1b,Una batalla llena de sangre y latigazos comienza.
+fb1c,"Haz ayudado a Trevor a ganar"""
+fb2,"""Trevor llega a los aposentos del Conde;"
+fb2a,pero este se ha enterado de la presencia
+fb2b,del cazavampiros y ha decidido huir.
+fb2c,"Trevor no terminara su cruzada contra el mal"""
+fb3,"""Trevor y su compañero tratan de buscar otra alternativa;"
+fb3a,avanzando por los pasillos hasta llegar al Conde.
+fb3b,"Sin esperar la repentina aparicion de Trevor y su aliado,"
+fb3c,"Dracula pierde miserablemente luego de una ardua batalla"""
+fm1,"""Trevor muere en el castillo; la luna de sangre lo devuelve"
+fm1a,como su peor pesadilla: otro esbirro de Dracula.
+fm1b,"Perdiste."""
+fm2,"""Trevor vaga por los pasillos infinitos del castillo."
+fm2a,¿De donde vino?
+fm2b,¿Cual camino tomó? Nadie nunca lo supo.
+fm2c,"Perdiste"""
